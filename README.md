@@ -1,4 +1,7 @@
 # TallSquirrel
+
+IM UPDATING THE MOD FOR PRIVATE LOBBYS ONLY!
+
 Makes your squirrel tall in Flying Squirrel Chase
 
 Currently there is NO toggle, but will be added soon.
